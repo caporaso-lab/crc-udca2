@@ -5,4 +5,4 @@ _Effects of Ursodeoxycholic Acid on the gut microbiome and colorectal adenoma de
 
 Microbiome analysis was performed with [QIIME 2](https://qiime2.org).
 
-The raw sequence data is in the process of being submitted to NCBI SRA for long-term archival. When that is complete, the accession numbers will be available here. In the meantime, the fastq files from the four sequencing runs and the sample metadata are available [here](https://www.dropbox.com/sh/a4l0e9683p3g4br/AABV_NKeZq5dw2lawE5gmR_ea?dl=0).
+The raw sequence data and metadata for this project is available in SRA under [BioProject PRJNA516932](https://www.ncbi.nlm.nih.gov/bioproject/516932).
